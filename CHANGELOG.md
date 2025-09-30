@@ -14,3 +14,4 @@
 - chore: clarify the setup steps
 - chore: clarify the setup steps
 - chore: fix a small wording issue
+- chore: clarify the setup steps
