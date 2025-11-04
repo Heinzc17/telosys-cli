@@ -26,3 +26,4 @@
 - fix: fix a small wording issue
 - fix: link the usage section
 - chore: link the usage section
+- fix: link the usage section
