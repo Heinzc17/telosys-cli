@@ -48,3 +48,4 @@
 - fix: add a note about the defaults
 - docs: add a note about the defaults
 - chore: add a note about the defaults
+- docs: link the usage section
