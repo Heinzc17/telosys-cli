@@ -45,3 +45,4 @@ Notes and usage details for telosys-cli.
 - link the usage section
 - link the usage section
 - fix a small wording issue
+- fix a small wording issue
